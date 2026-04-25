@@ -37,7 +37,7 @@ https://huggingface.co/OpenVINO/Qwen3-8B-int4-cw-ov
     
 4. **モデルファイルの配置** 
     ```bash
-    OpenVINO_GenAI/Qwen3-8B-int4-cw-ov
+    OpenVINO_GenAI_test/Qwen3-8B-int4-cw-ov
     
 5. **使い方**
 仮想環境を有効化した状態で、メインスクリプトを実行します。
