@@ -20,8 +20,8 @@ https://huggingface.co/OpenVINO/Qwen3-8B-int4-cw-ov
 
 1. **リポジトリのクローン**
    ```bash
-   git clone xxx
-   cd xxx
+   git clone https://github.com/toaru-ubuntu/OpenVINO_GenAI_test.git
+   cd OpenVINO_GenAI_test
    
 2. **Python仮想環境の作成と有効化**
     ```bash
